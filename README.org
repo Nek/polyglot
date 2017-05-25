@@ -10,19 +10,12 @@
  - [[#key-bindings][Key bindings]]
 
 * Description
-This layer does wonderful things:
-  - thing01
-
+This layer enables spacemacs shortcuts for russian input source.
 * Install
-To use this configuration layer, add it to your =~/.spacemacs=. You will need to
-add =polyglot= to the existing =dotspacemacs-configuration-layers= list in this
+Clone into ~/.emacs.d/private/polyglot.
+Add =polyglot= to the existing =dotspacemacs-configuration-layers= list in this
 file.
 
-* Key bindings
-
-| Key Binding | Description    |
-|-------------+----------------|
-| ~SPC x x x~ | Does thing01   |
 # Use GitHub URLs if you wish to link a Spacemacs documentation file or its heading.
 # Examples:
 # [[https://github.com/syl20bnr/spacemacs/blob/master/doc/VIMUSERS.org#sessions]]
